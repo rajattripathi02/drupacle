@@ -1,0 +1,5 @@
+entity.drupacle_connection.add_form:
+  route_name: entity.drupacle_connection.add_form
+  title: 'Add Oracle DB connection'
+  appears_on:
+    - entity.drupacle_connection.collection

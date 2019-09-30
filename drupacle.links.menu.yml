@@ -1,0 +1,8 @@
+entity.drupacle_connection.collection:
+  title: 'Drupacle'
+  route_name: entity.drupacle_connection.collection
+  description: 'List Database connections'
+  parent: system.admin_config
+  weight: 99
+
+

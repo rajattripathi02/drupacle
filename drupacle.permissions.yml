@@ -1,0 +1,20 @@
+
+administer drupacle connections:
+  title: 'Administer oracle Connections'
+  description: 'Administer oracle Connections'
+  restrict access: true
+
+add drupacle connections:
+  title: 'Create new oracle Connection'
+
+delete drupacle connections:
+  title: 'Delete oracle Connection entities'
+
+edit drupacle connections:
+  title: 'Edit oracle Connection entities'
+
+view drupacle connections:
+  title: 'View oracle Connection entities'
+
+permission_callbacks:
+  - \Drupal\drupacle\DrupacleConnectionPermissions::permissions

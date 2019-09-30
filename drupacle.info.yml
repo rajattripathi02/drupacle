@@ -1,0 +1,13 @@
+name: 'Drupacle'
+type: module
+description: 'Oracle Database Connection Tool for Drupal.'
+package: 'Development'
+# version: '8.x-1.1'
+core: '8.x'
+# project: 'drupacle'
+# datestamp: 1565679047
+
+# Information added by Drupal.org packaging script on 2019-09-17
+version: '8.x-1.3'
+project: 'drupacle'
+datestamp: 1568713091

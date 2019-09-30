@@ -1,0 +1,9 @@
+{
+  "name": "drupal/drupacle",
+  "type": "drupal-module",
+  "description": "Oracle Database Connection Tool for Drupal.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {}
+}

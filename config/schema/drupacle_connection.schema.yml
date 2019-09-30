@@ -1,0 +1,30 @@
+drupacle.drupacle_connection.*:
+  type: config_entity
+  label: 'Oracle Database connection entity config'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Connection Name'
+    uuid:
+      type: string
+    db_name:
+      type: string
+      label: 'Database name'
+    host:
+      type: string
+      label: 'Host'
+    port:
+      type: number
+      label: 'Port'
+    username:
+      type: string
+      label: 'Username'
+    password:
+      type: string
+      label: 'Password'
+    db_service_name:
+      type: string
+      label: 'Service Name'

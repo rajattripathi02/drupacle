@@ -1,0 +1,4 @@
+services:
+  drupacle.connection_service:
+    class: Drupal\drupacle\Controller\DrupacleController
+    arguments: ['@entity.manager']
